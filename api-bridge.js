@@ -1,6 +1,6 @@
 
 // INDICTIVE V2 - API BRIDGE CONFIG
-const PANEL_URL = "http://esaxalpat.anti-ddos.me:3011"; // Ganti dengan IP/Domain Pterodactyl kamu
+const PANEL_URL = "https://makotovps00.zhafiraahku.my.id:3595"; // Ganti dengan IP/Domain Pterodactyl kamu
 const SECRET_KEY = "061013";
 
 async function callPanelAPI(endpoint, data) {
